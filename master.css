@@ -3,7 +3,7 @@
 }
 .container {
     background-color: #000;
-    width: 100%;
+    /* width: 100%; */
     min-height: 100vh;
     position: relative;
 }
@@ -18,10 +18,10 @@ header {
     width: 50px;
     margin: 10px;
 }
-li {
+/* li {
     display: inline-block;
-}
-li a {
+} */
+a {
     margin: 10px;
     color: #fff;
     text-decoration: none;
@@ -53,9 +53,9 @@ p {
     color: #000;
     border-radius: 20px;
 }
-image {
+/* image {
     width: 35%;
-}
+} */
 .img {
     width: 200px;
 }
